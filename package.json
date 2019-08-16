@@ -1,0 +1,32 @@
+{
+  "name": "remark-replace-block",
+  "version": "1.0.0",
+  "description": "remark plugin to replace block context",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu8511831/remark-replace-block.git"
+  },
+  "keywords": [
+    "remark",
+    "replace"
+  ],
+  "author": "caixu.xcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu8511831/remark-replace-block/issues"
+  },
+  "homepage": "https://github.com/xu8511831/remark-replace-block#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "remark": "^11.0.1"
+  },
+  "jest": {
+    "testMatch": [
+      "**/__tests__/**/*.spec.js"
+    ]
+  }
+}
