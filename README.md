@@ -1,10 +1,12 @@
 # remark-replace-block
 
-[**remark**][remark] plugin to replace block content.
+[**remark**](https://github.com/remarkjs/remark/tree/master/packages/remark) plugin to replace block content.
+
+> Note: if the block content is not found, the replace nodes is will added to the end.
 
 ## Install
 
-[npm][]:
+[npm](https://www.npmjs.com/):
 
 ```sh
 npm install remark-replace-block
@@ -40,5 +42,3 @@ Yields:
 ## update
 - this is change
 ```
-
-> Note: if the block content is not found, the replace nodes is will added to the end.

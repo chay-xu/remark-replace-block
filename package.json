@@ -12,7 +12,8 @@
   },
   "keywords": [
     "remark",
-    "replace"
+    "replace",
+    "remark-plugin"
   ],
   "author": "caixu.xcy",
   "license": "ISC",
